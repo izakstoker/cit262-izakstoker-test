@@ -4,13 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "hello":"node helloworld.js"
+    "test": "jest",
+    "hello": "node helloworld.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/izakstoker/cit262-izakstoker-test.git"
   },
   "author": "Izak Stoker",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
