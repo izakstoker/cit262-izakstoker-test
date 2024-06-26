@@ -7,7 +7,7 @@ on:
     types:
       - closed
 env:
-  REPO_NAME: izakstoker17/cit262-{username}-bb
+  REPO_NAME: izakstoker17/cit262-izakstoker-bb
 
 jobs:
   if_merged:
