@@ -8,7 +8,7 @@ on:
     types:
       - closed
 env:
-  REPO_NAME: izakstoker17/cit262-izakstoker-bb
+  REPO_NAME: izakstoker/cit262-izakstoker-test
 
 jobs:
   if_merged:
