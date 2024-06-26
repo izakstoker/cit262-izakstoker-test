@@ -1,5 +1,5 @@
 name: Docker Image CI
-# Automation Function
+# Automation Function for Docker
 
 on:
   pull_request:
