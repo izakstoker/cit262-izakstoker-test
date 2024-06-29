@@ -8,7 +8,7 @@ on:
     types:
       - closed
 env:
-  REPO_NAME: izakstoker/node-bulletin-board
+  REPO_NAME: izakstoker/node-bulletin-board/bb
 
 jobs:
   if_merged:
