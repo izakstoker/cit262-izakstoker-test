@@ -1,0 +1,19 @@
+{
+  "name": "cit262-izakstoker-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jest.config.js",
+    "hello": "node helloworld.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/izakstoker/cit262-izakstoker-test.git"
+  },
+  "author": "Izak Stoker",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
